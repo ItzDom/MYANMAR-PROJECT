@@ -1,0 +1,61 @@
+.heading {
+    text-align: center;
+    padding: 0;
+    font-weight: bold;
+    color: red;
+}
+
+.disclaimer {
+    text-align: center;
+    color: rgb(245, 10, 10);
+
+}
+
+.text {
+    color: rgb(25, 201, 25);
+    font-size: large;
+}
+
+.body {
+    background-image: url(myanmar\ bg\ 1.png);
+}
+
+.mini {
+    color: red;
+}
+
+.textimage {
+    float: right;
+    width: 400px;
+    height: auto; 
+}
+
+.gearimage {
+    width: 300px;
+    height: auto;
+}
+
+.textimage3 {
+    height: 350px;
+    width: 550px;
+    float: right;
+}
+
+.textimage1 {
+    float: right;
+    height: 150px;
+    width: 300px;
+}
+
+.textimage2 {
+    float: right;
+    height: 150px;
+    width: 350px;
+
+}
+
+.textimage4 {
+    float: right;
+    width: 400px;
+    height: 300px;
+}
